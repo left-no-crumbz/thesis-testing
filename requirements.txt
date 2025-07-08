@@ -1,0 +1,9 @@
+transformers[torch]
+datasets[audio]
+audiomentations
+evaluate
+ipykernel
+tensorboardX
+renumics-spotlight
+cleanlab
+cleanvision
