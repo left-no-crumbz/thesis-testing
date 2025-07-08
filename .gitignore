@@ -1,5 +1,8 @@
 for-2seconds/
+venv/
 .venv/
 __pycache__
 logs/
 runs/
+test.ipynb
+test.ipynb
