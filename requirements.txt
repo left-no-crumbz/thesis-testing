@@ -1,9 +1,6 @@
 transformers[torch]
-datasets[audio]==2.21.0
+datasets[audio]
 audiomentations
 evaluate
 ipykernel
 tensorboardX
-renumics-spotlight
-cleanlab
-cleanvision
