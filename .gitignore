@@ -5,4 +5,5 @@ __pycache__
 logs/
 runs/
 test.ipynb
-test.ipynb
+/cut
+/dataset
