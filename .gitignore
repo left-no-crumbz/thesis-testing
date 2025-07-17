@@ -1,8 +1,12 @@
 for-2seconds/
+release_in_the_wild/
+generated_audio/
 venv/
 .venv/
 __pycache__
 logs/
 runs/
+/cut
 test.ipynb
-test.ipynb
+common-voices-mozilla/
+/dataset
