@@ -4,3 +4,4 @@ audiomentations
 evaluate
 ipykernel
 tensorboardX
+torchaudio
