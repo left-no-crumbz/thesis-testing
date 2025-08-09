@@ -11,3 +11,8 @@ test.ipynb
 common-voices-mozilla/
 /dataset
 main.obj
+LibriSeVoc/
+gt/
+LibriSpeech/
+dataset-balanced/
+dataset-oversampled-10/
