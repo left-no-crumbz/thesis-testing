@@ -13,3 +13,4 @@ ipywidgets
 huggingface_hub[hf_xet]
 optuna
 matplotlib
+tensorboard
