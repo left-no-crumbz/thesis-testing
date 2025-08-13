@@ -15,5 +15,6 @@ LibriSeVoc/
 gt/
 LibriSpeech/
 dataset-balanced/
-dataset-oversampled-10/
-dataset-oversampled-10.zip
+dataset-oversampled-15/
+dataset-oversampled-15.zip
+runs2/
