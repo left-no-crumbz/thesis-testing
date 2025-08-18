@@ -7,3 +7,12 @@ A repository for training the model for TrueVoice - a model for classifying audi
 - [Fake-or-Real](https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset)
 - [Common Voices Mozilla](https://www.kaggle.com/datasets/mozillaorg/common-voice)
 - [LibreSpeech](https://www.openslr.org/12)
+
+## Datasets used for evaluating
+- Our dataset's test split
+- [LibriSeVoc](https://drive.google.com/file/d/1Zh6b51S1WIsFjdCDRTQhYW61CQ0Ue1lk/view)
+- [ASVspoof2019 LA](https://www.kaggle.com/datasets/hahunavth/asvspoof2019-la)
+
+## Important Files
+- `app.ipynb` - Training script
+- `model.ipynb` - Evaluation script
