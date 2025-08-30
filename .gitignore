@@ -17,4 +17,5 @@ LibriSpeech/
 dataset-balanced/
 dataset-oversampled-15/
 dataset-oversampled-15.zip
-runs2/
+eval-*/
+evaluation-results/
